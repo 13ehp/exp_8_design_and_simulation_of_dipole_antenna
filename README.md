@@ -94,7 +94,7 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 *(Include your own table / plots relevant to the experiment.)*
 
 
-### Plots to include
+### Graphs
 
 * S11 vs frequency
 *(Include your own graph)*
@@ -116,8 +116,11 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 ## Result
  
 Resonant Frequency = GHz  
+
 Return loss = dB
+
 VSWR = 
+
 Gain = 
 
 ## Conclusion
